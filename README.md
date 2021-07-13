@@ -2,7 +2,7 @@
 
 **Bu repo [Patika.dev](https://www.patika.dev/programlar/ibtech-mobil-bootcamp) IBTech Mobil (Android & iOS) Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.**
 
-![](C:\Users\Deniz\Desktop\PatikaIBTechPNG.PNG)
+![](https://ibb.co/Kw2cgKT)
 
 ## **Installation**
 
